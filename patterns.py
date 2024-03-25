@@ -12,7 +12,7 @@ for i in range(rows):
         print("*",end=" ")
     print()
 
-print("\nhalf diamond") #right angle triangle + inverted right angle triangle
+print("\nhalf diamond") #right angle + inverted right angle triangle
 for i in range(1,rows+1):
     for j in range(1,i+1):
          print("*",end=" ")
