@@ -6,4 +6,4 @@ Hey buddy, This is just to explore the GitHub Universe
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI/ML Projects & Research
 - 📫 How to reach me 
-- ⚡ Fun fact: where does the Machine learning engineer go for camping? 
+- ⚡ Fun fact: where does the Machine learning engineer go for camping?
