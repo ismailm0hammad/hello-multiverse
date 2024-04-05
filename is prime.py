@@ -8,7 +8,7 @@ while div<n:
         else:
             div+=1
     else:
-        print("prime")
+        print('prime')
 if n>1:
     for i in range(2,n):
         print(i)
